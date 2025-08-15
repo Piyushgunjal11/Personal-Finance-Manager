@@ -1,6 +1,7 @@
 {
-  "name": "personalfinanceproject",
+  "name": "personalfinancemanager",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,17 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vaishnavi-Londhe/PersonalFinanceProject.git"
+    "url": "git+https://github.com/Piyushgunjal11/Personal-Finance-Manager.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Piyush Gunjal",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Vaishnavi-Londhe/PersonalFinanceProject/issues"
+    "url": "https://github.com/Piyushgunjal11/Personal-Finance-Manager/issues"
   },
-  "homepage": "https://github.com/Vaishnavi-Londhe/PersonalFinanceProject#readme",
-  "description": "",
+  "homepage": "https://github.com/Piyushgunjal11/Personal-Finance-Manager#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
